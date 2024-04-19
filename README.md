@@ -6,7 +6,7 @@ AI Engineer/Scientist
 
 I am doing my bachelor in AI.
 
-* 🌍  I am from Pakistan
+* 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [https://sarmadkhan123.carrd.co/](http://sarmadkhan123.carrd.co/)
 * ✉️  You can contact me at [p229009@pwr.nu.edu.pk](mailto:p229009@pwr.nu.edu.pk)
 * 🧠  I'm learning Artificial Intelligence
@@ -26,4 +26,10 @@ I am doing my bachelor in AI.
 
 ### Badges
 
-<a href="https://github.com/sarmad259" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarmad259&langs_count=10&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sarmad259"><img src="https://github-readme-stats.vercel.app/api?username=sarmad259&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sarmad259's GitHub stats" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/sarmad259/Python-Code-Solutions-Only" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sarmad259&repo=Python-Code-Solutions-Only&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sarmad259/OOP-Codes" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sarmad259&repo=OOP-Codes&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
