@@ -6,7 +6,7 @@ AI Engineer/Scientist
 
 I am doing my bachelor in AI.
 
-* 🌍  I'm based in Pakistan
+* 🌍  I am from Pakistan
 * 🖥️  See my portfolio at [https://sarmadkhan123.carrd.co/](http://sarmadkhan123.carrd.co/)
 * ✉️  You can contact me at [p229009@pwr.nu.edu.pk](mailto:p229009@pwr.nu.edu.pk)
 * 🧠  I'm learning Artificial Intelligence
