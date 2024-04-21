@@ -6,7 +6,6 @@ AI Engineer/Scientist
 
 I am doing my bachelor in AI.
 
-* 🌍  I'm based in Pakistan
 * 🖥️  See my portfolio at [this link](https://drive.google.com/file/d/1vqiUx7tKQHR_9BjQjXlh8Lzci0HiCGcl/view?usp=drive_link)
 * ✉️  You can contact me at [p229009@pwr.nu.edu.pk](mailto:p229009@pwr.nu.edu.pk)
 * 🧠  I'm learning Artificial Intelligence
