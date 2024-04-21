@@ -32,6 +32,14 @@ I am doing my bachelor in AI.
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/sarmad259"><img src="https://github-readme-stats.vercel.app/api?username=sarmad259&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sarmad259's GitHub stats" /></a>
+### My Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarmad259&layout=compact&theme=dark&hide_border=true)
+
+#### Additional Stats
+
+- Total Commits: [![Total Commits](https://img.shields.io/github/commit-activity/m/sarmad259/sarmad259?label=Total%20Commits&color=blueviolet)](https://github.com/sarmad259)
+- Total Contributions: [![Total Contributions](https://img.shields.io/github/contributions/sarmad259/sarmad259?label=Total%20Contributions&color=blueviolet)](https://github.com/sarmad259)
 
 <b>Top Repositories</b>
 
