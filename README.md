@@ -1,6 +1,6 @@
 
 
-Hi ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW56cGIwZWRwaWNmMXR1eThrdml5am1va2pxeGhjaHBqbW9zYjJtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6gvnAxj2ISzJdbA63/giphy-downsized.gif)My name is Sarmad
+Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW56cGIwZWRwaWNmMXR1eThrdml5am1va2pxeGhjaHBqbW9zYjJtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6gvnAxj2ISzJdbA63/giphy-downsized.gif" width="50">My name is Sarmad
 ==============================================================================================================================
 
 AI Engineer/Scientist
