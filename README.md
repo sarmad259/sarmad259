@@ -6,12 +6,12 @@ Hi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW56cGIwZWRwaWNmMX
 AI Engineer/Scientist
 ---------------------
 
-I am doing my bachelor in AI.
+.
 
 * 🖥️  See my portfolio at [this link](https://sarmad124.carrd.co/)
 * ✉️  You can contact me at [p229009@pwr.nu.edu.pk](mailto:p229009@pwr.nu.edu.pk)
-* 🧠  I'm learning Artificial Intelligence
-* ⚡  I'm secretly Batman. Just Don't tell it to anyone
+* 🧠  I'm I am doing my bachelor in AI
+
 
 ### Skills
 
