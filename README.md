@@ -50,12 +50,23 @@ AI Engineer/Scientist
   </a>
 </p>
 
-### Badges
+## :fire: My Stats :
 
-<b>My GitHub Stats</b>
-<a href="http://www.github.com/sarmad259">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarmad259&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sarmad259's GitHub stats" />
-</a>
+<br><b>Github Streaks 🔥</b>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TazmeenAfroz&theme=highcontrast&hide_border=true&stroke=ffffff&background=000000&ring=FA2A55&fire=ffffff&currStreakLabel=ffffff&dates=ffffff&title_color=FA2A55&text_color=ffffff" alt="TazmeenAfroz" />
+</p>
+
+<b>My Github Stats</b>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&count_private=true&show_icons=true&theme=highcontrast&bg_color=000000&title_color=FA2A55&text_color=ffffff&icon_color=FA2A55&hide_border=true" alt="TazmeenAfroz Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&bg_color=000000&title_color=FA2A55&text_color=ffffff&layout=compact&hide_border=true" alt="TazmeenAfroz Top Languages"/>
+</p>
+
 
 <br/>
 
