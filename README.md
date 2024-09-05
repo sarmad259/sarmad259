@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/3nsyNhRsq85Mlqbod2/giphy.gif" alt="MasterHead" style="width: 100%; height: auto;" />
+<img src="https://giphy.com/gifs/13HgwGsXF0aiGY" alt="MasterHead" style="width: 100%; height: auto;" />
 
 Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW56cGIwZWRwaWNmMXR1eThrdml5am1va2pxeGhjaHBqbW9zYjJtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6gvnAxj2ISzJdbA63/giphy-downsized.gif" width="50"> My name is Sarmad
 ==============================================================================================================================
