@@ -1,4 +1,13 @@
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="MasterHead" style="width: 100%; height: auto;" />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="auto" />
+  <br>
+</div>
+<br>
+<div></div>
+
+---
+
+<div></div>
 
 Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW56cGIwZWRwaWNmMXR1eThrdml5am1va2pxeGhjaHBqbW9zYjJtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6gvnAxj2ISzJdbA63/giphy-downsized.gif" width="50"> My name is Sarmad
 ==============================================================================================================================
@@ -6,9 +15,9 @@ Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW56cGIwZWR
 AI Engineer/Scientist
 ---------------------
 
-* 🖥️  See my portfolio at [this link](https://sarmad124.carrd.co/)
-* ✉️  Contact me at [p229009@pwr.nu.edu.pk](mailto:p229009@pwr.nu.edu.pk)
-* 🧠  Currently pursuing a bachelor's degree in AI
+* 🖥️ See my portfolio at [this link](https://sarmad124.carrd.co/)
+* ✉️ Contact me at [p229009@pwr.nu.edu.pk](mailto:p229009@pwr.nu.edu.pk)
+* 🧠 Currently pursuing a bachelor's degree in AI
 
 ### Skills
 
