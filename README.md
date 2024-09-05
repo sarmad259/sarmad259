@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/3nsyNhRsq85Mlqbod2/giphy.gif)]()
+![MasterHead](https://your-header-image-url)]()
 
 Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW56cGIwZWRwaWNmMXR1eThrdml5am1va2pxeGhjaHBqbW9zYjJtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6gvnAxj2ISzJdbA63/giphy-downsized.gif" width="50"> My name is Sarmad
 ==============================================================================================================================
