@@ -41,17 +41,17 @@ AI Engineer/Scientist
 
 <br><b>Github Streaks 🔥</b>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TazmeenAfroz&theme=highcontrast&hide_border=true&stroke=ffffff&background=000000&ring=FA2A55&fire=ffffff&currStreakLabel=ffffff&dates=ffffff&title_color=FA2A55&text_color=ffffff" alt="TazmeenAfroz" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SARMAD&theme=highcontrast&hide_border=true&stroke=ffffff&background=000000&ring=FA2A55&fire=ffffff&currStreakLabel=ffffff&dates=ffffff&title_color=FA2A55&text_color=ffffff" alt="SARMAD" />
 </p>
 
 <b>My Github Stats</b>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&count_private=true&show_icons=true&theme=highcontrast&bg_color=000000&title_color=FA2A55&text_color=ffffff&icon_color=FA2A55&hide_border=true" alt="TazmeenAfroz Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SARMAD&count_private=true&show_icons=true&theme=highcontrast&bg_color=000000&title_color=FA2A55&text_color=ffffff&icon_color=FA2A55&hide_border=true" alt="SARMAD Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&bg_color=000000&title_color=FA2A55&text_color=ffffff&layout=compact&hide_border=true" alt="TazmeenAfroz Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARMAD&bg_color=000000&title_color=FA2A55&text_color=ffffff&layout=compact&hide_border=true" alt="SARMAD Top Languages"/>
 </p>
 
 
