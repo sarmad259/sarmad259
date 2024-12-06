@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! 👋 My name is Sarmad and I'm an AI Engineer/Scientist, from [Your Location]</h2>
+<h2 align="left">Hi there! 👋 My name is Sarmad and I'm an AI Engineer/Scientist</h2>
 
 ### 👨‍💻 About Me:
 - 🖥️ See my portfolio at [Portfolio Link](#)  
