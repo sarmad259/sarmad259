@@ -1,93 +1,84 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/b0VK26c9Ne0ak/giphy.gif" width="100%" height="auto" />
-  <br>
-</div>
-<br>
-<div></div>
+<h2 align="left">Hi there! 👋 My name is Sarmad and I'm an AI Engineer/Scientist, from [Your Location]</h2>
+
+### 👨‍💻 About Me:
+- 🖥️ See my portfolio at [Portfolio Link](#)  
+- ✉️ Contact me at [p229009@pwr.nu.edu.pk](mailto:p229009@pwr.nu.edu.pk)  
+- 🧠 Currently pursuing a bachelor's degree in AI  
 
 ---
 
-<div></div>
-
-Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW56cGIwZWRwaWNmMXR1eThrdml5am1va2pxeGhjaHBqbW9zYjJtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R6gvnAxj2ISzJdbA63/giphy-downsized.gif" width="50"> My name is Sarmad
-==============================================================================================================================
-
-AI Engineer/Scientist
----------------------
-
-* 🖥️ See my portfolio at [this link](https://sarmad124.carrd.co/)
-* ✉️ Contact me at [p229009@pwr.nu.edu.pk](mailto:p229009@pwr.nu.edu.pk)
-* 🧠 Currently pursuing a bachelor's degree in AI
-
-
-### Socials
-
-<p align="left">
-  <a href="https://www.github.com/sarmad259" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="http://www.instagram.com/msarmad.k" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/sarmad-khan-0071bb24a" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.stackoverflow.com/users/23345049/m-sarmad-khan" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-  </a>
-</p>
-
-## :fire: My Stats :
-
-<br><b>Github Streaks 🔥</b>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SARMAD&theme=highcontrast&hide_border=true&stroke=ffffff&background=000000&ring=FA2A55&fire=ffffff&currStreakLabel=ffffff&dates=ffffff&title_color=FA2A55&text_color=ffffff" alt="SARMAD" />
-</p>
-
-<b>My Github Stats</b>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SARMAD&count_private=true&show_icons=true&theme=highcontrast&bg_color=000000&title_color=FA2A55&text_color=ffffff&icon_color=FA2A55&hide_border=true" alt="SARMAD Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARMAD&bg_color=000000&title_color=FA2A55&text_color=ffffff&layout=compact&hide_border=true" alt="SARMAD Top Languages"/>
-</p>
-
-
-<br/>
-
-## My Skill Set :
-
-<div align="center">  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
-  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-  <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-  <a href="https://www.w3.org/TR/CSS/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" height="50" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="GitHub" height="50" /></a>
-
-
+### 🔥 My Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarmad259&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarmad259&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<br/>
 
-#### Additional Stats
+---
 
-- Total Commits: [![Total Commits](https://img.shields.io/github/commit-activity/m/sarmad259/sarmad259?label=Total%20Commits&color=blueviolet)](https://github.com/sarmad259)
-- Total Contributions: [![Total Contributions](https://img.shields.io/github/contributions/sarmad259/sarmad259?label=Total%20Contributions&color=blueviolet)](https://github.com/sarmad259)
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
-  <a href="https://github.com/sarmad259/Python-Code-Solutions-Only" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sarmad259&repo=Python-Code-Solutions-Only&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/sarmad259/OOP-Codes" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sarmad259&repo=OOP-Codes&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
+### 🛠️ My Skill Set:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
+
+---
+
+### 🏆 Pinned Repositories:
+- [Certificates-and-Internship](https://github.com/sarmad259/Certificates-and-Internship)  
+  - My certificates and internship work.
+
+- [OOP-Codes](https://github.com/sarmad259/OOP-Codes)  
+  - C++ object-oriented programming codes.
+
+- [OOP-Project](https://github.com/sarmad259/OOP-Project)  
+  - Waterpark system project using C++ (Fun working on this project!).
+
+- [Python-Tasks](https://github.com/sarmad259/Python-Tasks)  
+  - Python tasks I've completed.
+
+- [BYTEWISE-INTERSHIP-TASKS](https://github.com/sarmad259/BYTEWISE-INTERSHIP-TASKS)  
+  - Bytewise internship tasks that I worked on.
+
+- [Pneumonia-Detector-Using-CNN](https://github.com/sarmad259/Pneumonia-Detector-Using-CNN)  
+  - A project to detect pneumonia using Convolutional Neural Networks (CNN).
+
+---
+
+### 📊 Contribution Stats:
+[![Sarmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarmad259&show_icons=true&theme=dracula)](https://github.com/sarmad259)
+
+#### 331 contributions in the last year
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sarmad259&theme=dracula&hide_border=true)
+
+---
+
+### 🔗 Connect with Me:
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCXXXX" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+  <a href="https://www.instagram.com/sarmad259/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="https://www.twitch.tv/sarmad259" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
+  <a href="https://discord.com/users/123456" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href="mailto:p229009@pwr.nu.edu.pk" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/sarmad259/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+</div>
+
+---
+
+### 🐍 Snake Animation:
+![Snake animation](https://raw.githubusercontent.com/sarmad259/sarmad259/output/snake.svg)
