@@ -79,6 +79,3 @@
 
 
 ---
-
-### 🐍 Snake Animation:
-![Snake animation](https://raw.githubusercontent.com/sarmad259/sarmad259/output/snake.svg)
