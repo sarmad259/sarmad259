@@ -9,7 +9,7 @@
 </div>
 
 ### 👨‍💻 About Me:
-- 🖥️ See my portfolio at [Portfolio Link](#)  
+- 🖥️ See my portfolio at [Portfolio Link](https://sarmad124.carrd.co/)  
 - ✉️ Contact me at [p229009@pwr.nu.edu.pk](mailto:p229009@pwr.nu.edu.pk)  
 - 🧠 Currently pursuing a bachelor's degree in AI  
 
