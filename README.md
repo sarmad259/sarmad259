@@ -1,4 +1,12 @@
-<h2 align="left">Hi there! 👋 My name is Sarmad and I'm an AI Engineer/Scientist</h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e479qzpyhmldztzlvfdw6j64x7qbdyc79fnd5i58eew&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100%" height="300"/>
+</div>
+
+<h2 align="center">Hi there! 👋 My name is Sarmad </h2>
+<h2 align ="center">Currently persuing  my bachelor's in Ai </h2>
+<div align="right">
+ 
+</div>
 
 ### 👨‍💻 About Me:
 - 🖥️ See my portfolio at [Portfolio Link](#)  
@@ -11,6 +19,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarmad259&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarmad259&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sarmad259&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ---
@@ -59,14 +71,12 @@
 
 ---
 
-### 📊 Contribution Stats:
-[![Sarmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarmad259&show_icons=true&theme=dracula)](https://github.com/sarmad259)
-
-#### 331 contributions in the last year
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sarmad259&theme=dracula&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarmad259&theme=dracula&hide_border=true&area=true" width="100%"/>
+</div>
 
 ---
+
 ### 🔗 Connect with Me:
 <div align="left">
   <a href="https://www.youtube.com/@jalebi9855" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
@@ -75,8 +85,14 @@
   <a href="https://discord.com/users/lightskin0112" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="mailto:p229009@pwr.nu.edu.pk" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/sarmad-khan-0071bb24a" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-
 </div>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sarmad259/count.svg" alt="Visitor Count"/>
+</div>
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
