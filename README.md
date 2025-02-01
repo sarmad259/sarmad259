@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6EhLOY6YRdS7ttgA/giphy.gif?cid=ecf05e47n85qzasrptd1svgpbxidoexirmpkld4z11ihe771&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100%" height="300"/>
+  <img src="https://media.giphy.com/media/Yvx5ejoI6JqzC/giphy.gif?cid=82a1493bes3h43h5kj5hcd7g2451jpyvr8iu0ypuyj7gtghr&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="100%" height="300"/>
 </div>
 
 <h2 align="center">Hi there! 👋 My name is Sarmad </h2>
