@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/Yvx5ejoI6JqzC/giphy.gif?cid=82a1493bes3h43h5kj5hcd7g2451jpyvr8iu0ypuyj7gtghr&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="100%" height="300"/>
 </div>
 
-<h2 align="center">Hi there! 👋 My name is Sarmad </h2>
-<h2 align ="center">Currently persuing  my bachelor's in Ai </h2>
+<h2 align="center">Hi there! 👋 My Name is Sarmad </h2>
+<h2 align ="center">Currently Persuing  my Bachelor's in AI</h2>
 <div align="right">
  
 </div>
