@@ -9,7 +9,7 @@
 </div>
 
 ### 👨‍💻 About Me:
-- 🖥️ See my portfolio at [Portfolio Link](https://v0-git-hub-and-linked-in-data-bc7vwww2d.vercel.app/)  
+- 🖥️ See my portfolio at [Portfolio Link](https://vercel.com/khansardarms-gmailcoms-projects/v0-git-hub-and-linked-in-data)  
 - ✉️ Contact me at [p229009@pwr.nu.edu.pk](mailto:p229009@pwr.nu.edu.pk)  
 - 🧠 Currently pursuing a bachelor's degree in AI  
 
