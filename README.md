@@ -51,23 +51,17 @@
 ---
 
 ### 🏆 Pinned Repositories:
-- [Certificates-and-Internship](https://github.com/sarmad259/Certificates-and-Internship)  
-  - My certificates and internship work.
-
-- [OOP-Codes](https://github.com/sarmad259/OOP-Codes)  
-  - C++ object-oriented programming codes.
+- [DBMS-PROJECT](https://github.com/sarmad259/DBMS-PROJECT)  
+  - A complete Hospital Management System built with Django and SQL.  
 
 - [OOP-Project](https://github.com/sarmad259/OOP-Project)  
-  - Waterpark system project using C++ (Fun working on this project!).
+  - My fun Waterpark System project using C++ with object-oriented design.  
 
-- [Python-Tasks](https://github.com/sarmad259/Python-Tasks)  
-  - Python tasks I've completed.
-
-- [BYTEWISE-INTERSHIP-TASKS](https://github.com/sarmad259/BYTEWISE-INTERSHIP-TASKS)  
-  - Bytewise internship tasks that I worked on.
+- [Previsio](https://github.com/sarmad259/Previsio)  
+  - An AI-powered Streamlit app for automated data preprocessing, visualization, and model training.  
 
 - [Pneumonia-Detector-Using-CNN](https://github.com/sarmad259/Pneumonia-Detector-Using-CNN)  
-  - A project to detect pneumonia using Convolutional Neural Networks (CNN).
+  - A CNN-based model to detect pneumonia from chest X-ray images.
 
 ---
 
