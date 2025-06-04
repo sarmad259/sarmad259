@@ -57,7 +57,7 @@
 - [OOP-Project](https://github.com/sarmad259/OOP-Project)  
   - My fun Waterpark System project using C++ with object-oriented design.  
 
-- [Previsio](https://github.com/sarmad259/Previsio)  
+- [Previsio](https://github.com/sarmad259/ML-Project)  
   - An AI-powered Streamlit app for automated data preprocessing, visualization, and model training.  
 
 - [Pneumonia-Detector-Using-CNN](https://github.com/sarmad259/Pneumonia-Detector-Using-CNN)  
