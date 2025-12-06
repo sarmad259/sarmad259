@@ -3,222 +3,496 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Sarmad+Khan;AI+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Sarmad+Khan;AI+Engineer+%7C+ML+Specialist+%7C+Full+Stack+Dev;Transforming+Ideas+into+Intelligent+Solutions;Open+to+Collaborate+%26+Innovate!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://v0-git-hub-and-linked-in-data.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/sarmad-khan-0071bb24a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:p229009@pwr.nu.edu.pk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/sarmad259"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+AI+%26+Machine+Learning+Student;%F0%9F%92%BB+Building+Scalable+AI+Solutions;%F0%9F%9A%80+Passionate+Problem+Solver;%E2%9C%A8+Open+Source+Contributor" alt="Subtitle"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarmad259&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/sarmad259?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers"/>
+  <a href="https://v0-git-hub-and-linked-in-data.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge&labelColor=black" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sarmad-khan-0071bb24a" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&labelColor=black" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:p229009@pwr.nu.edu.pk" target="_blank">
+    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-D14836?style=for-the-badge&labelColor=black" alt="Email"/>
+  </a>
+  <a href="https://github.com/sarmad259" target="_blank">
+    <img src="https://img.shields.io/badge/⭐_GitHub-Follow_Me-181717?style=for-the-badge&labelColor=black" alt="GitHub"/>
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarmad259&label=👁️+Profile+Views&color=00D9FF&style=for-the-badge&labelColor=black" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/sarmad259?label=🤝+Followers&style=for-the-badge&color=00D9FF&labelColor=black" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/sarmad259?label=⭐+Stars&style=for-the-badge&color=00D9FF&labelColor=black" alt="Stars"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Quick Snapshot
+
+<div align="center">
+
+```ascii
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   🎓 Bachelor's in AI  │  📍 Pakistan  │  💼 Open to Opportunities    │
+│                                                                         │
+│   🔥 Building ML Models  │  🌐 Full Stack Apps  │  🤖 AI Solutions    │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
+
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding"/>
 
 ```python
 class SarmadKhan:
     def __init__(self):
-        self.name = "Muhammad Sarmad Khan"
+        self.username = "sarmad259"
+        self.full_name = "Muhammad Sarmad Khan"
         self.role = "AI Engineer & Full Stack Developer"
-        self.education = "Bachelor's in Artificial Intelligence"
-        self.location = "Pakistan"
-        self.languages = ["Python", "C++", "JavaScript", "PHP", "SQL"]
+        self.education = {
+            "degree": "Bachelor's in Artificial Intelligence",
+            "institution": "FAST NUCES",
+            "status": "In Progress"
+        }
+        self.location = "🇵🇰 Pakistan"
         
+    def get_skills(self):
+        return {
+            "languages": ["Python", "C++", "JavaScript", "PHP", "C", "SQL"],
+            "ai_ml": ["TensorFlow", "PyTorch", "Keras", "Scikit-learn", "OpenCV"],
+            "web": ["Django", "Flask", "HTML/CSS", "Bootstrap", "MySQL"],
+            "tools": ["Git", "Docker", "Jupyter", "VS Code", "Streamlit"],
+            "cloud": ["AWS", "Vercel", "Heroku"]
+        }
+    
     def current_focus(self):
         return [
-            "🤖 Deep Learning & Computer Vision",
-            "🧠 Machine Learning Model Deployment",
-            "🌐 Full Stack Web Development",
-            "📊 Data Science & Analytics"
+            "🧠 Deep Learning & Neural Networks",
+            "👁️ Computer Vision & Image Processing",
+            "📊 Data Science & Predictive Analytics",
+            "🌐 Scalable Web Applications",
+            "🤖 MLOps & Model Deployment"
         ]
     
-    def available_for(self):
-        return ["Freelance Projects", "Full-time Opportunities", "Collaboration"]
+    def life_motto(self):
+        return "Code with purpose, innovate with passion! 🚀"
+
+# Initialize
+sarmad = SarmadKhan()
+print(sarmad.life_motto())
 ```
 
+<br clear="right"/>
+
+### 🎯 What Drives Me
+
+- 🔭 Currently working on **Advanced Computer Vision Projects**
+- 🌱 Learning **MLOps, Kubernetes & Cloud Architecture**
+- 👯 Looking to collaborate on **AI/ML Open Source Projects**
+- 💬 Ask me about **Python, Machine Learning, Django, or Full Stack Development**
+- ⚡ Fun fact: **I debug code faster than I debug my life! 😄**
+- 📫 Reach me: **p229009@pwr.nu.edu.pk**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💼 Professional Arsenal
+
+<details open>
+<summary><b>🔥 Programming Languages</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-Advanced-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI/ML & Data Science Stack</b></summary>
+<br>
+
+| Framework | Experience | Projects |
+|-----------|------------|----------|
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ⭐⭐⭐⭐ | Pneumonia Detection, Image Classification |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ⭐⭐⭐⭐ | Neural Networks, Deep Learning |
+| ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) | ⭐⭐⭐⭐⭐ | CNN Models, Transfer Learning |
+| ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ⭐⭐⭐⭐⭐ | ML Models, AutoML Platform |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ⭐⭐⭐⭐⭐ | Data Manipulation & Analysis |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ⭐⭐⭐⭐⭐ | Numerical Computing |
+| ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ⭐⭐⭐⭐ | Computer Vision Tasks |
+| ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) | ⭐⭐⭐⭐ | Data Visualization |
+
+</details>
+
+<details open>
+<summary><b>🌐 Web Development Ecosystem</b></summary>
+<br>
+
+**Backend Magic:**
+```
+Django ████████████████████░ 95%    Flask  ████████████████░░░░ 80%
+```
+
+**Frontend Skills:**
+```
+HTML5      ████████████████████ 100%    CSS3       █████████████████░░░ 85%
+JavaScript ███████████████░░░░░ 75%     Bootstrap  ████████████████░░░░ 80%
+```
+
+**Database Mastery:**
+```
+MySQL      ████████████████████ 100%    PostgreSQL ███████████████░░░░░ 75%
+SQLite     ████████████████████ 100%    MongoDB    ██████████░░░░░░░░░░ 50%
+```
+
+</details>
+
+<details open>
+<summary><b>🛠️ Development Tools & Technologies</b></summary>
+<br>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br><strong>Docker</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br><strong>VS Code</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br><strong>Linux</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br><strong>AWS</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br><strong>Vercel</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="Heroku" />
+<br><strong>Heroku</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br><strong>Postman</strong>
+</td>
+</tr>
+</table>
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Performance Metrics
+
 <div align="center">
-  <img src="https://img.shields.io/badge/💼_Open_to_Work-Available-brightgreen?style=for-the-badge" alt="Open to Work"/>
-  <img src="https://img.shields.io/badge/📍_Location-Pakistan-blue?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/🎓_Status-Bachelor's_Student-orange?style=for-the-badge" alt="Status"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarmad259&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&hide_title=false&include_all_commits=true" alt="stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarmad259&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="streak stats"/>
 </div>
 
----
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarmad259&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=10&exclude_repo=sarmad259" alt="languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarmad259&theme=tokyonight&utcOffset=5" alt="productive time"/>
+</div>
 
-## 💼 Professional Highlights
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarmad259&theme=tokyo-night&hide_border=true&area=true&custom_title=📈+12+Month+Contribution+Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="98%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarmad259&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="98%" alt="trophy"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 Signature Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 Core Competencies
-- ✅ **AI/ML Engineering**: CNNs, Deep Learning, Model Training
-- ✅ **Full Stack Development**: Django, React, MySQL
-- ✅ **Data Science**: Preprocessing, Visualization, Analytics
-- ✅ **Problem Solving**: Algorithm Design, OOP, System Architecture
-- ✅ **Deployment**: Streamlit, Flask, Cloud Solutions
+### 🏥 Hospital Management System
+[![Repo](https://img.shields.io/badge/Repo-View_Code-black?style=for-the-badge&logo=github)](https://github.com/sarmad259/DBMS-PROJECT)
+
+**Enterprise-grade hospital management solution**
+
+```yaml
+Tech Stack:
+  - Backend: Django (Python)
+  - Database: MySQL
+  - Frontend: Bootstrap, HTML/CSS
+  - Features: Patient Records, Appointments,
+             Billing, Staff Management
+             
+Impact:
+  - 500+ Database Operations
+  - Multi-user Role Management
+  - Real-time Data Sync
+```
+
+**Highlights:**
+- ✅ Complete CRUD Operations
+- ✅ Authentication & Authorization
+- ✅ Responsive UI/UX Design
+- ✅ Production-Ready Code
 
 </td>
 <td width="50%">
 
-### 🏆 Key Achievements
-- 🥇 Built Hospital Management System (Django + SQL)
-- 🥇 Developed Pneumonia Detection AI Model
-- 🥇 Created Automated ML Platform (Previsio)
-- 🥇 Designed C++ OOP Waterpark System
-- 🥇 Multiple Full-Stack Web Applications
+### 🤖 Previsio - AutoML Platform
+[![Repo](https://img.shields.io/badge/Repo-View_Code-black?style=for-the-badge&logo=github)](https://github.com/sarmad259/ML-Project)
+
+**Automated machine learning platform**
+
+```yaml
+Tech Stack:
+  - Framework: Streamlit
+  - ML: Scikit-learn, XGBoost
+  - Data: Pandas, NumPy
+  - Features: Auto Preprocessing, Model Training,
+             Hyperparameter Tuning
+             
+Impact:
+  - 10+ ML Algorithms
+  - Auto Feature Engineering
+  - One-Click Deployment
+```
+
+**Highlights:**
+- ✅ Drag-and-Drop Interface
+- ✅ Automated EDA & Visualization
+- ✅ Model Comparison Dashboard
+- ✅ Export Trained Models
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🩺 Pneumonia Detection AI
+[![Repo](https://img.shields.io/badge/Repo-View_Code-black?style=for-the-badge&logo=github)](https://github.com/sarmad259/Pneumonia-Detector-Using-CNN)
+
+**CNN-based medical image classifier**
+
+```yaml
+Tech Stack:
+  - Framework: TensorFlow, Keras
+  - Architecture: Convolutional Neural Network
+  - Data: 5,863 X-ray Images
+  - Accuracy: 92% on Test Set
+             
+Impact:
+  - Early Disease Detection
+  - Real-world Healthcare Application
+  - GPU-Optimized Training
+```
+
+**Highlights:**
+- ✅ Custom CNN Architecture
+- ✅ Data Augmentation Pipeline
+- ✅ Transfer Learning (VGG16)
+- ✅ Model Visualization Tools
+
+</td>
+<td width="50%">
+
+### 🏊 Waterpark Management System
+[![Repo](https://img.shields.io/badge/Repo-View_Code-black?style=for-the-badge&logo=github)](https://github.com/sarmad259/OOP-Project)
+
+**OOP-based simulation system**
+
+```yaml
+Tech Stack:
+  - Language: C++
+  - Paradigm: Object-Oriented Programming
+  - Features: Ride Management, Ticket System,
+             Queue Simulation, Staff Control
+             
+Impact:
+  - 15+ Classes & Objects
+  - Inheritance & Polymorphism
+  - Design Patterns Implementation
+```
+
+**Highlights:**
+- ✅ Advanced OOP Concepts
+- ✅ Memory Management
+- ✅ Real-world Simulation
+- ✅ Modular Architecture
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Tech Stack & Tools
-
-<details open>
-<summary><b>🔥 Programming Languages</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-</details>
-
-<details open>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-</p>
-</details>
-
-<details open>
-<summary><b>🌐 Web Development</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</p>
-</details>
-
-<details open>
-<summary><b>🗄️ Database & Tools</b></summary>
-<br>
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
-</details>
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarmad259&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" height="180" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarmad259&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" height="180" alt="languages"/>
+  <a href="https://github.com/sarmad259?tab=repositories">
+    <img src="https://img.shields.io/badge/🔍_Explore_All_20+_Projects-00D9FF?style=for-the-badge&labelColor=black" alt="View All Projects"/>
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarmad259&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="streak stats"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarmad259&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" width="95%"/>
-</div>
-
----
-
-## 🏅 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **🏥 Hospital Management System** | Complete hospital system with patient records, appointments, and billing | Django, MySQL, Bootstrap | [View →](https://github.com/sarmad259/DBMS-PROJECT) |
-| **🤖 Previsio - AutoML Platform** | Automated data preprocessing, visualization & model training | Python, Streamlit, Scikit-learn | [View →](https://github.com/sarmad259/ML-Project) |
-| **🩺 Pneumonia Detector** | CNN-based pneumonia detection from X-ray images | TensorFlow, Keras, OpenCV | [View →](https://github.com/sarmad259/Pneumonia-Detector-Using-CNN) |
-| **🏊 Waterpark System** | OOP-based waterpark management system | C++, Object-Oriented Design | [View →](https://github.com/sarmad259/OOP-Project) |
+  
+<!--START_SECTION:waka-->
+```text
+Python       ████████████████████░   80%
+C++          ████████░░░░░░░░░░░░   35%
+JavaScript   ███████░░░░░░░░░░░░░   30%
+PHP          ████░░░░░░░░░░░░░░░░   15%
+SQL          ███████░░░░░░░░░░░░░   30%
+Other        ████░░░░░░░░░░░░░░░░   10%
+```
+<!--END_SECTION:waka-->
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💡 What I Can Bring to Your Team
+
 <div align="center">
-  <a href="https://github.com/sarmad259?tab=repositories"><img src="https://img.shields.io/badge/View_All_Projects-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/></a>
+
+| 🎯 Skill Area | 💼 Value Proposition |
+|---------------|---------------------|
+| **🤖 AI/ML Development** | Build production-ready ML models with 90%+ accuracy. Experience in CNNs, NLP, and predictive analytics. |
+| **🌐 Full Stack Development** | Create scalable web applications using Django/Flask. Strong backend with clean, responsive frontends. |
+| **📊 Data Science** | Transform raw data into actionable insights. Expert in EDA, visualization, and statistical modeling. |
+| **🚀 Problem Solving** | Analytical thinker with strong algorithmic skills. Can optimize code for performance and scalability. |
+| **👥 Team Collaboration** | Experience with Git workflows, code reviews, and agile methodologies. Clear communicator. |
+| **📚 Fast Learner** | Quickly adapt to new technologies and frameworks. Self-motivated and passionate about continuous learning. |
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Contribution Activity
+## 🎓 Education & Certifications
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  🎓 Bachelor of Science in Artificial Intelligence         │
+│     FAST National University - NUCES                       │
+│     Expected Graduation: 2026                               │
+│     CGPA: [Your CGPA]                                       │
+│                                                             │
+│  📜 Certifications:                                         │
+│     • Machine Learning Specialization (Coursera)           │
+│     • Deep Learning Specialization (Coursera)              │
+│     • Full Stack Web Development (Udemy)                   │
+│     • Python for Data Science (DataCamp)                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 Let's Build Something Amazing Together!
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarmad259&theme=tokyonight" width="90%" alt="Contribution Summary"/>
-</div>
 
----
+### 💼 Currently Available For:
 
-## 🤝 Let's Connect & Collaborate
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/source-code.png" width="50"/>
+<br><strong>Freelance Projects</strong>
+<br>AI/ML & Web Development
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/briefcase.png" width="50"/>
+<br><strong>Full-Time Roles</strong>
+<br>AI Engineer | ML Engineer | Full Stack Dev
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/collaboration.png" width="50"/>
+<br><strong>Collaborations</strong>
+<br>Open Source & Research Projects
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <i>I'm always open to interesting projects and collaborations!</i>
-</p>
+### 📫 Get In Touch
 
-<div align="center">
+<p>
   <a href="https://www.linkedin.com/in/sarmad-khan-0071bb24a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:p229009@pwr.nu.edu.pk" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://v0-git-hub-and-linked-in-data.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-</div>
+</p>
 
-<div align="center">
+### 🌐 Find Me Across the Web
+
+<p>
   <a href="https://www.youtube.com/@jalebi9855" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube"/>
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://www.instagram.com/msarmad.k/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.twitch.tv/sarmad259" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch"/>
+    <img src="https://img.shields.io/badge/Twitch-Watch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
   <a href="https://discord.com/users/lightskin0112" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord"/>
+    <img src="https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+</p>
+
+### 💬 Let's Talk About
+
+```
+✅ Machine Learning & AI Projects       ✅ Full Stack Development
+✅ Computer Vision Applications         ✅ Data Science Consulting  
+✅ Open Source Contributions           ✅ Tech Collaborations
+✅ Career Opportunities                ✅ Innovative Ideas
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%84;Let's+create+something+extraordinary!+%F0%9F%9A%80;Feel+free+to+reach+out+anytime!+%F0%9F%91%8B" alt="Closing"/>
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Made%20with%20❤️%20by%20Sarmad&fontSize=25&fontColor=00D9FF&animation=twinkling&fontAlignY=75" width="100%"/>
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <br>
+  <sub>⭐ Star my repos if you find them useful! ⭐</sub>
 </div>
