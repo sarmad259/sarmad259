@@ -98,10 +98,9 @@ print(sarmad.life_motto())
 
 ### 🎯 What Drives Me
 
-- 🔭 Currently working on **Advanced Computer Vision Projects**
+- 🔭 Gaming😐
 - 🌱 Learning **MLOps, Kubernetes & Cloud Architecture**
-- 👯 Looking to collaborate on **AI/ML Open Source Projects**
-- 💬 Ask me about **Python, Machine Learning, Django, or Full Stack Development**
+- 💬 Ask me about **Python, Machine Learning, Django,Gaming ,Anime or Full Stack Development**
 - ⚡ Fun fact: **I debug code faster than I debug my life! 😄**
 - 📫 Reach me: **p229009@pwr.nu.edu.pk**
 
