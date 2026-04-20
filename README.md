@@ -60,7 +60,7 @@ class SarmadKhan:
     def __init__(self):
         self.username = "sarmad259"
         self.full_name = "Muhammad Sarmad Khan"
-        self.role = "AI Engineer & Full Stack Developer"
+        self.role = "Research Assistant @ DFKI Germany | AI Engineer | Green AI Researcher"
         self.education = {
             "degree": "Bachelor's in Artificial Intelligence",
             "institution": "FAST NUCES",
@@ -229,6 +229,15 @@ SQLite     ████████████████████ 100%    
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🧪 Research & Industry Experience
+
+| Role | Organization | Focus |
+|------|-------------|-------|
+| 🔬 Research Assistant | **DFKI Germany** (Remote) | KDLight Distillation, Medical CV |
+| ⚙️ AI Engineer | **Owlvest** | RAG Pipelines, LLM Inference |
+| 🏆 1st Place | **KPITB Digital Challenge 2025** | Fintech AI |
+| 🚀 Finalist | **NICAT Aerospace Hackathon** | Agri Predict AI |
 
 ## 🏆 Signature Projects
 
@@ -401,7 +410,7 @@ Other        ████░░░░░░░░░░░░░░░░   10%
 │  🎓 Bachelor of Science in Artificial Intelligence         │
 │     FAST National University - NUCES                       │
 │     Expected Graduation: 2026                               │
-│     CGPA: [Your CGPA]                                       │
+│     │
 │                                                             │
 │  📜 Certifications:                                         │
 │     • Machine Learning Specialization (Coursera)           │
